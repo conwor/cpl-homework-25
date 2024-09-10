@@ -1,4 +1,7 @@
-/main
+/main-32
+/main-64
+/main-32-std-alloc
+/main-64-std-alloc
 /tests/*.passed
 /tests/*-actual-*.txt
 /*.formatted
